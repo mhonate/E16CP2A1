@@ -30,3 +30,5 @@ En esta parte del ejercicio se debe investigar como aplicar relgas a la base de 
 6. Crear una consulta que muestre el nombre de la imagen y la cantidad de likes que tiene esa imagen.
 7. Crear una consulta que muestre el nombre del usuario y los nombres de las fotos que le pertenecen.
 8. Crear una consulta que muestre el nombre del tag y la cantidad de imagenes asociadas a ese tag.
+
+Marcelo Oñate Palacios
